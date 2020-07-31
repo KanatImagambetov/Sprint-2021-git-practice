@@ -6,5 +6,10 @@ jaguar
 volga
 kia
 honda
+<<<<<<< Updated upstream
 jeep
 cmg
+=======
+>>>>>>> Stashed changes
+lexus
+ferrari
