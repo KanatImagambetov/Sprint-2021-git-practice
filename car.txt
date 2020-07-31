@@ -6,3 +6,5 @@ jaguar
 volga
 kia
 honda
+jeep
+cmg
