@@ -3,3 +3,6 @@ bmw
 nissan
 lada
 jaguar
+volga
+kia
+honda
